@@ -11,5 +11,3 @@ A webpage which allows viewer to visualize sorting algorithms running in realtim
 
 
 
-#### Some Images :-
-![image](./util/sortingvisualizer.png)
